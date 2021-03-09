@@ -5,7 +5,7 @@ public class ejercicio1 {
 	public static void main(String[] args) {
 		
 		System.out.println(isInt("4"));
-		System.out.println(isInt("4.50"));
+		System.out.println(isDouble("4.50"));
 
 	}
 
